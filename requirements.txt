@@ -1,5 +1,7 @@
-streamlit==1.32.0
+streamlit
 pandas
-numpy
+numpy==1.26.4
 opencv-python
-scikit-learn
+face_recognition
+scipy
+plotly

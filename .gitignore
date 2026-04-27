@@ -1,0 +1,20 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+env/
+
+# Compiled Binaries and Executables
+*.exe
+*.whl
+build/
+dist/
+
+# Biometric Databases and Logs
+data/encodings.pkl
+Attendance/*.csv
+
+# OS generated files
+.DS_Store
