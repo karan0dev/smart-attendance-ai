@@ -9,4 +9,4 @@ An enterprise-grade biometric attendance system engineered with Python and Strea
 * **Memory Management:** Enforced contiguous memory mapping (`np.ascontiguousarray`) and strict 8-bit integer casting (`uint8`) to bridge high-level OpenCV frames with the rigid C++ `dlib` backend, preventing heap corruption.
 
 ## 🛠️ Tech Stack
-Python 3.12 | OpenCV | dlib | face_recognition | Streamlit | Pandas | NumPy 1.26.4
+Python 3.12 | OpenCV | face_recognition | Streamlit | Pandas | NumPy 1.26.4
