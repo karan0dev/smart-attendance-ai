@@ -10,3 +10,6 @@ An enterprise-grade biometric attendance system engineered with Python and Strea
 
 ## 🛠️ Tech Stack
 Python 3.12 | OpenCV | face_recognition | Streamlit | Pandas | NumPy 1.26.4
+
+
+Developed
