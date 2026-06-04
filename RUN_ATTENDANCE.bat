@@ -31,7 +31,7 @@ echo [SUCCESS] System Boot Complete. Launching Control Panel...
 echo DO NOT CLOSE THIS TERMINAL WINDOW.
 echo.
 
-:: STEP 5: Boot the Dashboard
+:: STEP 5: Boot the Dash Board
 python -m streamlit run main.py
 
 pause
