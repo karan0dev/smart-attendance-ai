@@ -12,4 +12,4 @@ An enterprise-grade biometric attendance system engineered with Python and Strea
 Python 3.12 | OpenCV | face_recognition | Streamlit | Pandas | NumPy 1.26.4
 
 
-Developed
+Developed by karan0dev
